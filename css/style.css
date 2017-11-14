@@ -1290,4 +1290,15 @@ input[type="text"] {
   opacity: 0;
 }
 
+@media screen and (max-width: 600px) {
+  #titleservices {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
